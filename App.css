@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.c1{
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  
+}
+
+h1{
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  position: relative;
+  left: 70px;
+  top: 10px;
+  border-radius: 10px;
+}
